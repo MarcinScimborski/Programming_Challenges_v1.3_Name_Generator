@@ -12,8 +12,8 @@ const imiona = [
 
 
 const nazwiska = [
-    "Scimborski",
-    "Piskor",
+    "Rojewicz",
+    "Smith",
     "Kowalski",
     "Rojondzki"
 ];
